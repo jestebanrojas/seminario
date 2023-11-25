@@ -16,9 +16,9 @@ Para la construcción del dataset final, el cual será empleado en la aplicació
 
 
 El repositorio presenta la siguiente estructura en su primer nivel:
-Carpeta Datos: Contiene los diferentes archivos que sirven de información fuente y que será procesada.
-Carpeta Codigos: Contrien los diferentes notebooks que se encargan de procesar los datos.
-Carpeta Datasets_salida: contiene los diferentes archivos con los datasets que se cosntruyen a lo largo de la  preparación de los datos, contiene también el dataset final así como los datasets propuestos para entrenamiento y validación.
+*   Carpeta Datos: Contiene los diferentes archivos que sirven de información fuente y que será procesada.
+*   Carpeta Codigos: Contiene los diferentes notebooks que se encargan de procesar los datos.
+*   Carpeta Datasets_salida: contiene los diferentes archivos con los datasets que se cosntruyen a lo largo de la  preparación de los datos, contiene también el dataset final así como los datasets propuestos para entrenamiento y validación.
 
 A continuación, se presentan las instrucciones para correr los códigos necesarios para la construcción del Dataset que será empleado en el desarrollo del proyecto:
 
